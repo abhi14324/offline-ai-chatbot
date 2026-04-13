@@ -48,7 +48,7 @@ offline-ai-chatbot/
 ├── backend/ # FastAPI backend
 │ ├── server.py
 │ ├── requirements.txt
-│ └── venv/ # Virtual environment (not pushed to GitHub)
+│ └── venv/ # Virtual environment
 │
 ├── README.md
 └── .gitignore
